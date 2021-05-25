@@ -1,7 +1,6 @@
 import React from 'react'
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 
-import './bootstrap/dist/css/bootstrap.min.css'
 import './styles/animations.css'
 import './styles/style.css'
 
